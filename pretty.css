@@ -1,0 +1,39 @@
+h2, h2 a,
+h2 a:link,
+h2 a:visited,
+h2 a:hover {
+font-size: 18px;
+letter-spacing: 2px;  
+font-family: Arial, Helvetica, sans-serif;
+font-weight:500;
+text-align:left;
+border: none; 
+padding: 0px 0px 0px 0px;
+display: block;
+background: transparent;
+margin: 24px 2px 8px 2px;
+color: #504ABB; 
+}
+
+a {
+	text-decoration:none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h3 { 
+font-weight:400; 
+color:#504ABB;
+}
+
+.rightimg {
+	float:right;
+	margin: 10px;
+}
+
+.leftimg {
+	float: left;
+	margin: 10px;
+}
