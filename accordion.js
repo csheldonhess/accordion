@@ -1,6 +1,7 @@
 
 // hide the divs in class "blocks"
-$(".blocks").hide();
+// hide the menu that doesn't show up if JavaScript's off, too
+$(".blocks, .anchors").hide();
 
 // add arrows to the headings - ** SUB IN YOUR OWN FILE STRUCTURE (and other arrows, if you want) **
 $('a').children('h2').append(' <img src="images/arrow_closed.gif" class="arrows" name="click to show/hide text" />');
