@@ -11,4 +11,8 @@ Expanded:
 
 <img src=images/expanded.png />
 
+JavaScript turned off:
+
+<img src=images/no-js.png />
+
 (Cat photos optional. Thanks to placekitten.com for being awesome!)
